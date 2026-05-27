@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"40px"},"children":[["$","h1",null,{"children":"Kalyani's Blog 🚀"}],["$","p",null,{"children":"Henlo!,This is my blog where I am going to give updates on the new stuff that I will learn."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"su99_cEmyJLg_ErN5snkG"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"40px"},"children":[["$","h1",null,{"children":"Kalyani's Blog "}],["$","p",null,{"children":"Henlo!,This is my blog where I am going to give updates on the new stuff that I will learn."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GfMc3efIizqzwQPO8w2vu"}
 4:null
