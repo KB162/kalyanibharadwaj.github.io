@@ -14,9 +14,9 @@ export default function Home() {
         I learned how object detection works and how to process webcam input.
       </p>
 
-      <h2>Notes</h2>
+      <h2>notes</h2>
       <p>CS231</p>
-      <>electronics</>
+      <p>electronics</p>
 
       <h2>Others</h2>
       <p>Projects and ideas</p>
