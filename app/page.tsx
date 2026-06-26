@@ -1,25 +1,35 @@
 export default function Home() {
   return (
-    <main>
-      <h1>Kalyani's Blog</h1>
+    <main style={{ padding: "40px", fontFamily: "Arial" }}>
+      <h1>Kalyani Bharadwaj</h1>
 
-      <h2>About Me</h2>
-      <p>This blog is me recording my journey.</p>
+      <h2>I am just recording my journey of learning
+        Computer Vision • Robotics • AI</h2>
 
-      <h2>Latest Post</h2>
-
-      <h3>learning computer vision</h3>
       <p>
-        i made a small project that  worked on a concept of computer vision project using OpenCV and Python.
-        I learned how object detection works and how to process webcam input.
+        I am a Computer Science Engineering student passionate about building
+        intelligent systems using Computer Vision and embedded electronics.
       </p>
 
-      <h2>notes</h2>
-      <p>CS231</p>
-      <p>electronics</p>
+      <hr />
 
-      <h2>Others</h2>
-      <p>Projects and ideas</p>
+      <h2>Projects</h2>
+
+      <ul>
+        <li>Gesture Controlled LED</li>
+        <li>Hand Detection with MediaPipe</li>
+        <li>CS231 Computer Vision Projects</li>
+      </ul>
+
+      <hr />
+
+      <h2>Currently Learning</h2>
+
+      <ul>
+        <li>Computer Vision</li>
+        <li>Large Language Models</li>
+        <li>Robotics</li>
+      </ul>
     </main>
   );
 }
