@@ -17,8 +17,11 @@ export default function Home() {
 
       <ul>
         <li>Gesture Controlled LED using computer vision</li>
+        <li> </li>
         <li>Hand Detection with MediaPipe</li>
+        <li> </li>
         <li>CS231 Computer Vision Projects</li>
+        <li> </li>
         <li>Researching on paper related to MOS sensors and Neural Networks being used in detection of gases with a professor at IIIT Pune </li>
       </ul>
 
@@ -29,10 +32,8 @@ export default function Home() {
       <ul>
         <li>Computer Vision -
             I started learning computer vision from the online course of stanford - CS231n 
-            Summary of each class in my own words - 
-
-
-        </li>
+            Summary of each class in my own words - </li>
+            <li> </li>
         <li>Research - </li>
         <li>I currently am involved in a research paper which is basically on MOS sensors and different Neural Networks being used to detect the compostion of the gased by applying the computer vision knowledge I learnt from CS231n program of stanford </li>
 
