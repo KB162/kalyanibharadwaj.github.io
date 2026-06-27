@@ -17,11 +17,11 @@ export default function Home() {
 
       <ul>
         <li>Gesture Controlled LED using computer vision</li>
-        <li> </li>
+        
         <li>Hand Detection with MediaPipe</li>
-        <li> </li>
+        
         <li>CS231 Computer Vision Projects</li>
-        <li> </li>
+        
         <li>Researching on paper related to MOS sensors and Neural Networks being used in detection of gases with a professor at IIIT Pune </li>
       </ul>
 
