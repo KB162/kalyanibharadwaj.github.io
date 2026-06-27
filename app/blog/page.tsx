@@ -3,15 +3,12 @@ export default function Blog() {
     <main style={{ padding: "40px" }}>
       <h1>My Blog</h1>
 
-      <p>Welcome to my engineering notebook.</p>
-
       <ul>
         <li>
-          Building a Gesture Controlled LED
-        </li>
-
-        <li>
-          My CS231 Journey
+          <a href="/blog/gesture-controlled-led">
+            Building a Gesture Controlled LED
+            <a href="/blog">Read my blog →</a>
+          </a>
         </li>
       </ul>
     </main>
