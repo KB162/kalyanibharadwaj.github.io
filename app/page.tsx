@@ -49,7 +49,7 @@ export default function Home() {
 </li>
 <li>
           <a
-            href="https://github.com/KB162/kalyanibharadwaj"
+            href="https://github.com/KB162/kalyanibharadwaj.github.io"
             target="_blank"
             rel="noopener noreferrer"
           >
