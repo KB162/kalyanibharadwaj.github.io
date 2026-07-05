@@ -1,4 +1,4 @@
-:HL["/kalyanibharadwaj.github.io/_next/static/chunks/12y-f_mudghur.css","style"]
+:HL["/kalyanibharadwaj.github.io/_next/static/chunks/0z8gh0e5z-til.css","style"]
 :HL["/kalyanibharadwaj.github.io/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kalyanibharadwaj.github.io/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"cs231n","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"dJkJLDGiwRV_yfUm4W4NZ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"cs231n","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"hb92xdvn16OIQ_GD9JsKE"}

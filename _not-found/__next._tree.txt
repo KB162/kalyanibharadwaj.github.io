@@ -1,2 +1,2 @@
-:HL["/kalyanibharadwaj.github.io/_next/static/chunks/12y-f_mudghur.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"dJkJLDGiwRV_yfUm4W4NZ"}
+:HL["/kalyanibharadwaj.github.io/_next/static/chunks/0z8gh0e5z-til.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"hb92xdvn16OIQ_GD9JsKE"}
