@@ -1,3 +1,4 @@
+import Link from "next/link";
 export default function Blog() {
   return (
     <main style={{ padding: "40px" }}>
@@ -5,11 +6,24 @@ export default function Blog() {
 
       <ul>
         <li>
-          <a href="/blog/gesture-controlled-led">
+          <Link href="/blog/gesture-controlled-LED">
             Building a Gesture Controlled LED
-            <a href="/blog">Read my blog →</a>
-          </a>
+           </Link>
         </li>
+         
+        <li>
+          <Link href="/blog/cs231n">
+            Learnings from cs231n course by stanford 
+           </Link>
+        </li>
+        
+        <li>
+          <Link href="/blog/electronics">
+             Learning Electronics 
+           </Link>
+        </li>
+  
+
       </ul>
     </main>
   );

@@ -1,9 +1,9 @@
 export default function GestureControlledLED() {
   return (
     <main style={{ padding: "40px", maxWidth: "800px", margin: "auto" }}>
-      <h1>Building a Gesture Controlled LED</h1>
+      <h1>Building a Gesture Controlled LED using computer vision</h1>
 
-      <p>June 26, 2026</p>
+      <p>DATE : June 26, 2026</p>
 
       <hr />
 
@@ -27,6 +27,20 @@ export default function GestureControlledLED() {
         <li>MediaPipe</li>
         <li>Arduino</li>
       </ul>
+
+      <video
+  controls
+  width="700"
+  style={{ borderRadius: "10px", marginTop: "20px" }}
+>
+  
+    <source
+  src="/kalyanibharadwaj.github.io/videos/gesture-controlled-led.mp4"
+  type="video/mp4"
+/>
+  
+  Your browser does not support the video tag.
+</video>
 
       <h2>What I Learned</h2>
 
