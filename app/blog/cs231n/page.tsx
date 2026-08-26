@@ -9,7 +9,7 @@ export default function cs231stanford() {
 
       <p>
         This was my first time learning something from the free courses offered by stanford -
-        computer Vision
+        Computer Vision
         The course was taught by  feifei li and offered detail explainations on various Neural Networks  
       </p>
 
